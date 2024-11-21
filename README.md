@@ -39,11 +39,11 @@ Pronto! Divirta-se jogando o clássico inspirado em *Enduro*!
 - **Bitmap Display**
 
 ## Desenvolvido por
-[Seu Nome]  
+Luiz Felipe Pinheiro Lopes  
 Discente do curso de **Análise e Desenvolvimento de Sistemas** - IFRN CNAT.
 
 ---
 
 <div align="center">
- **Divirta-se com o jogo!**  
+ Divirta-se com o jogo!  
 </div>
